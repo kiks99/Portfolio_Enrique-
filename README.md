@@ -11,3 +11,6 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 * [Petal Power Inventory](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/Petal%20Power%20Inventory/Petal%20Power%20Inventory.ipynb): Analyzing a dataset for a gardening store chain using pandas  
 ### Data Wrangling and Tidying 
 * [Us Census Data](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Wrangling%20and%20Tidying/Us%20Census%20Data/Cleaning%20US%20Data%20Census%20.ipynb):  This project is about using pandas, glob, and regex to compilate several csv files, clean the data and make some visualizations about population data.
+
+### Summary Statistics 
+* [Census Variables](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Census%20Variables/Census%20Variables%20.ipynb): Using variable handling tools in panda we made some analysis of a small census dataset. Includes use of categorical data , cat.codes and median 
