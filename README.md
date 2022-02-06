@@ -4,6 +4,7 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 ## Table of Contents
 ### Python Projects
 * [Medical Insurance Projects](https://github.com/kiks99/Portfolio_Enrique-/tree/main/Python%20Files/Medical%20Insurance%20Projects): Several projects using basic Python tools to create a Medical Insurance Cost analysis 
+* [Hurricane Data Analysis](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Python%20Files/Hurricane%20Data%20Analysis/Hurricane%20Analysis%20Project.ipynb): An analysis about the most dangerous hurricanes ever recorded 
 ### Data Manipulation with Pandas
 * [Page Visits Funnel](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/Page%20Visits%20Funnel/Page%20Visits%20Funnel.ipynb): Using merging techniques and timestamps we calculate the average time between each step of a E-commerce webpage buying process and calculate an average purchase time.
 * [A-B Testing for ShoeFly.com](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/A-B%20Testing%20for%20ShoeFly.com/A_B%20Testing%20for%20ShoeFly.com.ipynb): Using aggregate functions to analyze which source and what A/B test of an ad brings more clicks to a webpage.
