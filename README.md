@@ -3,6 +3,7 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 
 ## Table of Contents
 ### Data Manipulation with Pandas
-* [Page Visits Funnel](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/Page%20Visits%20Funnel/Page%20Visits%20Funnel.ipynb): Using merging techniques and timestamps we calculate the average time between each step of a E-commerce webpage buying process and calculate and average purchase time
+* [Page Visits Funnel](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/Page%20Visits%20Funnel/Page%20Visits%20Funnel.ipynb): Using merging techniques and timestamps we calculate the average time between each step of a E-commerce webpage buying process and calculate and average purchase time.
+* [A-B Testing for ShoeFly.com](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Manipulation%20with%20Pandas/A-B%20Testing%20for%20ShoeFly.com/A_B%20Testing%20for%20ShoeFly.com.ipynb): Using aggregate functions to analyze which source and what A/B test of an ad brings more clicks to a webpage.
 ### Data Wrangling and Tidying 
-* [Us Census Data](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Wrangling%20and%20Tidying/Us%20Census%20Data/Cleaning%20US%20Data%20Census%20.ipynb):  This project is about using pandas, glob, and regex to compilate several csv files, clean the data and make some visualizations about population data
+* [Us Census Data](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Wrangling%20and%20Tidying/Us%20Census%20Data/Cleaning%20US%20Data%20Census%20.ipynb):  This project is about using pandas, glob, and regex to compilate several csv files, clean the data and make some visualizations about population data.
