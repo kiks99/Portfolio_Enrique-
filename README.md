@@ -14,3 +14,4 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 
 ### Summary Statistics 
 * [Census Variables](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Census%20Variables/Census%20Variables%20.ipynb): Using variable handling tools in panda we made some analysis of a small census dataset. Includes use of categorical data , cat.codes and median 
+* [Life Expectancy by Country](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Life%20Expectancy%20by%20Country/Life%20Expectancy%20by%20Country%20.ipynb): Using quartiles and histograms to check the differences in life expectancy between countries with different GDP's 
