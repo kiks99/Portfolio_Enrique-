@@ -17,6 +17,9 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 * [Life Expectancy by Country](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Life%20Expectancy%20by%20Country/Life%20Expectancy%20by%20Country%20.ipynb): Using quartiles and histograms to check the differences in life expectancy between countries with different GDP's 
 * [Summarizing Evaluation Data](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Summarizing%20%20Automobile%20Evaluation%20Data/Summarizing%20Automobile%20Evaluation%20Data.ipynb): Using panda tools to summarize different information about an automobile dataset. 
 * [Healthcare in Different States](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Summary%20Statistics/Health%20Care%20in%20Different%20States/Healthcare%20in%20Different%20States.ipynb): Using boxplots we can see the difference between states from a different array of procedures and diseases, we included chest pain and alcohol and drug abuse in this project. 
+
+### Hypothesis Testing
+* [Heart Disease Research pt. 1](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Hypothesis%20Testing/Heart%20Disease%20Research%20pt.%201/Heart%20Disease%20Research%20Part%201.ipynb): Realizing hypothesis testing using statistic tools to investigate more about heart diseases. 
 ### Data Visualization
 * [Exploring Mushrooms](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Visualization/Exploring%20Mushrooms/Exploring%20Mushrooms%20.ipynb): Using seaborn couuntplot we'll be discovering the characteristics of the fungus world !
 * [Startup Transformation](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Visualization/Startup%20Transformation/Startup%20Transformation.ipynb): Using visualization and data transformations we take actions about revenue vs. expense , employee productivity and commute times inside a startup company.  
