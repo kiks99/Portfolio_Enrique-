@@ -20,6 +20,7 @@ Hello World! Welcome to my Portfolio for Data Analytics where I'll be showing yo
 
 ### Hypothesis Testing
 * [Heart Disease Research pt. 1](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Hypothesis%20Testing/Heart%20Disease%20Research%20pt.%201/Heart%20Disease%20Research%20Part%201.ipynb): Realizing hypothesis testing using statistic tools to investigate more about heart diseases. 
+* [Heart Disease Research pt. 2](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Hypothesis%20Testing/Heart%20Disease%20Research%20pt.%202/Heart%20Disease%20Research%20pt.%202.ipynb): Using different hypothesis methods and tools we realized tests to investigate further on the significance of health variables in the prediction of hert disease in patients.  
 ### Data Visualization
 * [Exploring Mushrooms](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Visualization/Exploring%20Mushrooms/Exploring%20Mushrooms%20.ipynb): Using seaborn couuntplot we'll be discovering the characteristics of the fungus world !
 * [Startup Transformation](https://github.com/kiks99/Portfolio_Enrique-/blob/main/Data%20Visualization/Startup%20Transformation/Startup%20Transformation.ipynb): Using visualization and data transformations we take actions about revenue vs. expense , employee productivity and commute times inside a startup company.  
